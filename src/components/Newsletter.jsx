@@ -42,7 +42,7 @@ export function Newsletter() {
                 notified when tickets go on sale.
               </p>
             </div>
-            <form name="newsletter" method="post" data-netlify="true">
+            <form name="newsletter" method="post" data-netlify="true" action="/">
 
               <h3 className="text-lg font-semibold tracking-tight text-blue-900">
                 Sign up to our newsletter <span aria-hidden="true">&darr;</span>
